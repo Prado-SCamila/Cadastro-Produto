@@ -1,0 +1,13 @@
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\cadastro produto\Cadastro-Produto\bin\Debug\netcoreapp3.1\Cadastro-Produto.exe
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\cadastro produto\Cadastro-Produto\bin\Debug\netcoreapp3.1\Cadastro-Produto.deps.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\cadastro produto\Cadastro-Produto\bin\Debug\netcoreapp3.1\Cadastro-Produto.runtimeconfig.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\cadastro produto\Cadastro-Produto\bin\Debug\netcoreapp3.1\Cadastro-Produto.runtimeconfig.dev.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\cadastro produto\Cadastro-Produto\bin\Debug\netcoreapp3.1\Cadastro-Produto.dll
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\cadastro produto\Cadastro-Produto\bin\Debug\netcoreapp3.1\Cadastro-Produto.pdb
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\cadastro produto\Cadastro-Produto\obj\Debug\netcoreapp3.1\Cadastro-Produto.csprojAssemblyReference.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\cadastro produto\Cadastro-Produto\obj\Debug\netcoreapp3.1\Cadastro-Produto.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\cadastro produto\Cadastro-Produto\obj\Debug\netcoreapp3.1\Cadastro-Produto.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\cadastro produto\Cadastro-Produto\obj\Debug\netcoreapp3.1\Cadastro-Produto.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\cadastro produto\Cadastro-Produto\obj\Debug\netcoreapp3.1\Cadastro-Produto.dll
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\cadastro produto\Cadastro-Produto\obj\Debug\netcoreapp3.1\Cadastro-Produto.pdb
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\cadastro produto\Cadastro-Produto\obj\Debug\netcoreapp3.1\Cadastro-Produto.genruntimeconfig.cache
